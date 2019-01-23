@@ -1,0 +1,122 @@
+.navbar{
+display: flex ;
+justify-content: space-between;
+}
+.menu{
+       align-content:space-between;
+    border: 1px solid black;
+    width: 30%;
+}
+.Product{
+    display: flex;
+    justify-content: space-between ;
+}
+.video{
+    width: 650px;
+    height: 540px;
+}
+
+.squares{
+    height: 415;
+    width:1536px;
+}
+.sq1 {
+    display: flex;
+    justify-content: space-around; 
+    background-color: #CEA0AF;
+    height:572px;
+}
+.sq234{
+    display: flex;
+    
+}
+.sq2{
+    height: 350px;    
+    background-color: #FED24A;
+}
+.sq3 {
+   
+    background-color: #51C29F   ;
+    
+}
+.sq4 {
+    background-color : rgb(62, 169, 245)
+}
+
+.pics1 {
+display: flex ;
+justify-content: space-between;
+width:300px;
+height: 170px}
+.pics2 {
+    display:flex;
+    width: 780px;
+   }
+
+.fact{
+    color: #9CA8B7;
+    font-size: 18px;
+   }
+   .img1
+   {
+        width: 318px;
+        height: auto;
+   }
+   .img2
+   {
+        width: 318px;
+        height: auto;
+   }
+   .img3
+   {
+        width: 318px;
+        height: auto;
+   }
+   .tsawer
+   {
+    display: flex;
+    justify-content: space-evenly;
+    height: 222px;
+}
+    .ktiba {
+        display: flex ;
+justify-content: space-evenly ;
+font-size: 18px;
+}
+.links{
+    display: flex ;
+    justify-content: space-evenly ;
+}
+.terms{
+    display: flex;
+    background-color: #EFEFEF ;
+    justify-content: center;
+    height: 21.600px;
+    padding: 25px 40px ;
+}
+.finally{
+    justify-content: space-evenly;
+    display: flex;
+    padding: 0px 21.5px ;
+    height: 424.200px;
+    background-color: #2A2D35;
+}
+.logo-footer{
+    width: 31px;
+    height: 25px;
+}
+.hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 8px auto;
+    height: 0;
+    width: 100%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+ }  
